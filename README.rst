@@ -17,7 +17,7 @@ and sold by `Inesonic, LLC <https://inesonic.com>`.
 
 Licensing
 =========
-This library is dual licensed under the MIT license.
+This library is released under the MIT license.
 
 
 Dependencies And Building
